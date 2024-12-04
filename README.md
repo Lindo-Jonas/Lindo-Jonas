@@ -9,7 +9,7 @@
 - **Tableau**: Building interactive dashboards  
 
 ## Projects  
-- **[Data Cleaning in SQL](https://github.com/PraisworthJonas/Data-Cleaning-SQL)**  
+- **[Data Cleaning in SQL](https://github.com/Lindo-Jonas/Lindo-Jonas/blob/main/SQL%20data%20cleaning%20project.pptx )**  
   Cleaned and standardized datasets, improving usability for analysis.  
 
 ## Connect  
