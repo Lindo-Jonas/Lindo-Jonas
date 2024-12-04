@@ -37,7 +37,7 @@ To clean and standardize a messy dataset, ensuring data accuracy and usability f
 
 ## Project Files   
 - **[Presentation (PPT)](./Data_Cleaning_Presentation.pptx)**  
-- **[SQL Script](./scripts/data_cleaning.sql)**  
+- **[SQL Script] https://github.com/Lindo-Jonas/Lindo-Jonas/blob/main/SQLite%20(1).sql **  
 
 ## Author  
 Praisworth Lindokuhle Jonas
