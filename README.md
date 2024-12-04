@@ -35,13 +35,9 @@ To clean and standardize a messy dataset, ensuring data accuracy and usability f
 - Reduced NULL values by 90%.  
 - Improved data consistency and usability.  
 
-## Project Files  
-- **[Data Cleaning Report (PDF)](./Data_Cleaning_Report.pdf)**  
+## Project Files   
 - **[Presentation (PPT)](./Data_Cleaning_Presentation.pptx)**  
 - **[SQL Script](./scripts/data_cleaning.sql)**  
-
-## Visuals  
-![Sample Dashboard](images/sample_dashboard.png)  
 
 ## Author  
 Praisworth Lindokuhle Jonas
