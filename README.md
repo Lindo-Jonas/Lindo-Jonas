@@ -14,3 +14,34 @@
 
 ## Connect  
 - [LinkedIn Profile](https://www.linkedin.com/in/praisworth-lindokuhle-jonas-b4b769154)
+
+# Data Cleaning in SQL  
+
+## Objective  
+To clean and standardize a messy dataset, ensuring data accuracy and usability for analysis.  
+
+## Dataset  
+- **Source**:sales_with_Nans  
+
+## Tools Used  
+- SQL 
+
+## Key Steps  
+- Removing duplicates  
+- Handling NULL values  
+- Standardizing data formats (e.g., dates, strings)  
+
+## Results  
+- Reduced NULL values by 90%.  
+- Improved data consistency and usability.  
+
+## Project Files  
+- **[Data Cleaning Report (PDF)](./Data_Cleaning_Report.pdf)**  
+- **[Presentation (PPT)](./Data_Cleaning_Presentation.pptx)**  
+- **[SQL Script](./scripts/data_cleaning.sql)**  
+
+## Visuals  
+![Sample Dashboard](images/sample_dashboard.png)  
+
+## Author  
+Praisworth Lindokuhle Jonas
