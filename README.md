@@ -36,11 +36,10 @@ To clean and standardize a messy dataset, ensuring data accuracy and usability f
 - Improved data consistency and usability.  
 
 ## Project Files   
-- **[Presentation (PPT)]
-https://github.com/Lindo-Jonas/Lindo-Jonas/blob/main/SQL%20data%20cleaning%20project.pptx**
-
-- https://github.com/Lindo-Jonas/Lindo-Jonas/blame/main/SQL%20data%20cleaning%20project.pptx(./Data_Cleaning_Presentation.pptx)**  
-- **[SQL Script] https://github.com/Lindo-Jonas/Lindo-Jonas/blob/main/SQLite%20(1).sql **  
+- **[Presentation (PPT)]**
+https://github.com/Lindo-Jonas/Lindo-Jonas/blob/main/SQL%20data%20cleaning%20project.pptx
+ 
+- **[SQL Script]** https://github.com/Lindo-Jonas/Lindo-Jonas/blob/main/SQLite%20(1).sql  
 
 ## Author  
 Praisworth Lindokuhle Jonas
